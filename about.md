@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+https://www.eventbrite.com/e/nyc-ux-holiday-party-2016-tickets-28410887730
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
